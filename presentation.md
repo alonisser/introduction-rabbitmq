@@ -4,7 +4,7 @@ class: center, middle
 
 ##An introduction to using message queues, design patterns and RabbitMQ
 
-[live presentation](http://alonisser.github.io/introduction-rabbitmq) <br/>
+[live presentation](https://alonisser.github.io/introduction-rabbitmq) <br/>
 [twitter](alonisser@twitter.com), [medium](https://medium.com/@alonisser/)
 
 ###Shameless promotion: you can also read my political blog: **[degeladom](degeladom@wordpress.com)**
